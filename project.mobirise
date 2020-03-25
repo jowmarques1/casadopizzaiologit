@@ -751,7 +751,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Pizzas de 8 pedaços e Bordas Recheadas.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FAZER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#services5-c\" data-toolbar=\"-mbrBtnMove\">VER SABORES</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://www.bitly.com/Quer0Pizza\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FAZER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#services5-c\" data-toolbar=\"-mbrBtnMove\">VER SABORES</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/3277899.jpg",
@@ -770,7 +770,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "DELICIOSOS SABORES, PIZZAS DE 8 PEDAÇOS.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.bitly.com/Quer0Pizza\" data-toolbar=\"-mbrBtnMove\">FAZER PEDIDO</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.bitly.com/Quer0Pizza\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FAZER PEDIDO</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/17795.jpg",
@@ -789,7 +789,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "DELIVERY DAS 18H ÁS 00H.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://www.bitly.com/Quer0Pizza\" data-toolbar=\"-mbrBtnMove\">PEDIR AGORA</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://www.bitly.com/Quer0Pizza\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PEDIR AGORA</a> ",
                 "overlayOpacity": "0.6"
               }
             ]
