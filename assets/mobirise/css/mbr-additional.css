@@ -1561,6 +1561,11 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rUiu4dkGn6 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/3277899.jpg");
+}
 .cid-rUd2IT3PzO .main_wrapper {
   position: relative;
   height: 26rem;
@@ -1634,4 +1639,9 @@ section.lazy-placeholder:after {
 }
 .cid-rUd2IT3PzO H4 {
   color: #ffffff;
+}
+.cid-rUiuQ1oWAC {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
