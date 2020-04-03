@@ -762,7 +762,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://www.bitly.com/Quer0Pizza\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FAZER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#services5-c\" data-toolbar=\"-mbrBtnMove\">VER SABORES</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/3277899.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3277899-2000x1125.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -781,7 +781,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.bitly.com/Quer0Pizza\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FAZER PEDIDO</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/17795.jpg",
+                "image": "@PROJECT_PATH@/assets/images/17795-2000x1333.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
