@@ -758,7 +758,7 @@
                 "textTitle": "<b>CASA DO </b><br><b>PIZZAIOLO</b>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Pizzas de 8 pedaços e Bordas Recheadas.",
+                "text": "PIZZAS DE 8 PEDAÇOS - GRÁTIS BORDA RECHEADA",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white\" data-app-placeholder=\"Type Text\" href=\"https://www.bitly.com/Quer0Pizza\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FAZER PEDIDO</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#services5-c\" data-toolbar=\"-mbrBtnMove\">VER SABORES</a>"
               },
               {
@@ -777,7 +777,7 @@
                 "textTitle": "PIZZAS Á PARTIR <br>DE R$20,00",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "DELICIOSOS SABORES, PIZZAS DE 8 PEDAÇOS.",
+                "text": "DELICIOSOS SABORES, GRANDE VARIEDADE.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.bitly.com/Quer0Pizza\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FAZER PEDIDO</a> "
               },
               {
