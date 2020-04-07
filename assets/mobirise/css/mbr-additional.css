@@ -1437,46 +1437,42 @@ section.lazy-placeholder:after {
     margin: 1rem 0 0 0;
   }
 }
-.cid-rUfTbAX8QY {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-rVvxuMZWgr {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/fundo-casa-do-pizzaiolo-1000x1000.png");
 }
-.cid-rUfTbAX8QY h2 {
-  margin-bottom: 0;
-}
-.cid-rUfTbAX8QY h4 {
+.cid-rVvxuMZWgr h4 {
+  width: 85%;
   font-weight: 500;
   margin-bottom: 0;
-  width: 80%;
 }
-.cid-rUfTbAX8QY p {
+.cid-rVvxuMZWgr p {
   color: #767676;
-  margin-bottom: 0;
 }
-.cid-rUfTbAX8QY .card-wrapper {
+.cid-rVvxuMZWgr .card-wrapper {
   border-top: 1px solid #efefef;
   background-color: #ffffff;
   position: relative;
   justify-content: unset;
 }
-.cid-rUfTbAX8QY .card-wrapper .card-box {
-  padding: 2rem 1rem;
+.cid-rVvxuMZWgr .card-wrapper .card-box {
+  padding: 2rem;
   width: 100%;
 }
-.cid-rUfTbAX8QY .card-wrapper .card-box .top-line {
+.cid-rVvxuMZWgr .card-wrapper .card-box .top-line {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.cid-rUfTbAX8QY .card-wrapper .card-box .bottom-line {
-  width: 70%;
+.cid-rVvxuMZWgr .card-wrapper .card-box .bottom-line {
+  width: 85%;
 }
 @media (max-width: 767px) {
-  .cid-rUfTbAX8QY .card-wrapper .card-box .bottom-line {
+  .cid-rVvxuMZWgr .card-wrapper .card-box .bottom-line {
     width: 100%;
   }
-  .cid-rUfTbAX8QY .card-wrapper .card-box .bottom-line p {
+  .cid-rVvxuMZWgr .card-wrapper .card-box .bottom-line p {
     text-align: center;
     margin: 1rem 0 0 0;
   }
@@ -1521,6 +1517,51 @@ section.lazy-placeholder:after {
     margin: 1rem 0 0 0;
   }
 }
+.cid-rVvB8tbShp {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/fundo-casa-do-pizzaiolo-1000x1000.png");
+}
+.cid-rVvB8tbShp h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-rVvB8tbShp p {
+  color: #767676;
+}
+.cid-rVvB8tbShp .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rVvB8tbShp .card-wrapper .card-box {
+  padding: 2rem;
+  width: 100%;
+}
+.cid-rVvB8tbShp .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-rVvB8tbShp .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-rVvB8tbShp .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-rVvB8tbShp .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-rVvBVziAky {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/17795.jpg");
+}
 .cid-rUgemM3s5T {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -1560,11 +1601,6 @@ section.lazy-placeholder:after {
   .cid-rUg3gbIgl8 .inner-container {
     width: 100% !important;
   }
-}
-.cid-rUiu4dkGn6 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/3277899.jpg");
 }
 .cid-rUd2IT3PzO .main_wrapper {
   position: relative;
